@@ -51,10 +51,8 @@ To deploy the application, follow the instructions for hosting your app with AWS
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-This project is licensed under the MIT License.
 
 ## Acknowledgements
 - [AWS Amplify](https://aws.amazon.com/amplify/)
 - [AWS Cognito](https://aws.amazon.com/cognito/)
-- [Original Tutorial](https://www.youtube.com/watch?v=ma1FA2be8Ac&t=30s)
+
