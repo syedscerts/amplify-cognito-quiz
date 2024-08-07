@@ -22,7 +22,39 @@ The Cognito Quiz Game is a web application that allows users to sign up, log in,
 
 ## Installation
 
-1. **Clone the repository:**
-   ```bash
-   git clone <your-repo-url>
+1. **Clone the repository**: 
+   git clone <your-repo-url> 
    cd cognito-quiz-game
+
+2. **Install dependencies**: 
+   npm install
+
+3. **Set up AWS Amplify**: 
+   Follow the instructions to configure AWS Amplify with your project. Ensure that your AWS credentials are correctly configured.
+
+4. **Configure Amplify**: 
+   amplify init 
+   amplify push
+
+## Usage
+
+1. **Run the application**: 
+   npm start
+
+2. **Access the application**: 
+   Open your browser and navigate to `http://localhost:3000` to use the application locally.
+
+## Deployment
+
+To deploy the application, follow the instructions for hosting your app with AWS Amplify or another hosting service. 
+
+## Contributing
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## License
+This project is licensed under the MIT License.
+
+## Acknowledgements
+- [AWS Amplify](https://aws.amazon.com/amplify/)
+- [AWS Cognito](https://aws.amazon.com/cognito/)
+- [Original Tutorial](https://www.youtube.com/watch?v=ma1FA2be8Ac&t=30s)
