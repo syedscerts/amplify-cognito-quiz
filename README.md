@@ -1,8 +1,8 @@
 # Cognito Quiz Game
 
-A quiz game built using AWS Amplify and Cognito for authentication.
-![image](https://github.com/user-attachments/assets/1a60fed8-7c9c-4268-bab0-144ca47a2abb)
 
+![image](https://github.com/user-attachments/assets/1a60fed8-7c9c-4268-bab0-144ca47a2abb)
+A quiz game built using AWS Amplify and Cognito for authentication.
 
 ## Table of Contents
 - [Introduction](#introduction)
